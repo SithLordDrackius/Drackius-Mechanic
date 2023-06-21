@@ -1,2 +1,2 @@
 # Drackius-Mechanic
-ESX Mechanic script for FiveM
+ESX Vehicle shop script for FiveM
